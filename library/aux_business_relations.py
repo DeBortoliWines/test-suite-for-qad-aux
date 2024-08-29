@@ -126,9 +126,9 @@ EXAMPLES = r"""
     state_file: state.json
     input_fields:
       main:
-        business_relation_code: 70-522
-        business_relation_name1: Bernard Gray
-        business_relation_search_name: Bernard Gray
+        business_relation_code: 70-500
+        business_relation_name1: John Doe
+        business_relation_search_name: John Doe
         addresses:
           head_office:
             head_office_street1: 1 Ansible Way
@@ -149,7 +149,7 @@ EXAMPLES = r"""
     state_file: state.json
     input_fields:
       main:
-        business_relation_code: 70-522
+        business_relation_code: 70-500
 """
 
 RETURN = r"""

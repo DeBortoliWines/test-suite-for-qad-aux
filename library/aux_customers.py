@@ -137,7 +137,7 @@ EXAMPLES = r"""
           pre_payment_control_gl_profile_code: 00050-NEWCUS-A
           sales_account_gl_profile_code: 20000-NEWCUS-SA
         payment:
-          credit_terms_code: AP07
+          credit_terms_code: AP01
           invoice_status_code: AP-INITIAL
         tax:
           tax_zone: 10

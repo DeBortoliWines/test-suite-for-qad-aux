@@ -99,9 +99,9 @@ EXAMPLES = r"""
     input_fields:
       main:
         customer_code: 1BER009
-        customer_ship_to_name: Bernie Liquor Store
+        customer_ship_to_name: Joe Liquor Store
       address:
-        address_search_name: Bernie Liquor Store
+        address_search_name: Joe Liquor Store
         city: Sydney
         country_code: AUS
       tax:
@@ -116,7 +116,7 @@ EXAMPLES = r"""
     input_fields:
       main:
         customer_code: 1BER009
-        customer_ship_to_name: Bernie Liquor Store
+        customer_ship_to_name: Joe Liquor Store
 """
 
 RETURN = r"""
