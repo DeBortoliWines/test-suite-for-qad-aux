@@ -1,0 +1,4 @@
+playbooks/
+*.yml
+state.json
+module_utils/__pycache__/
