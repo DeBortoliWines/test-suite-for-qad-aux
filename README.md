@@ -20,6 +20,10 @@ Assistance to add non-mandatory fields to existing modules, as well as the devel
 
 This project combines the simple task-based nature of Ansible config automation, with the automated web navigation/testing capabilities of Playwright to create a simple and flexible testing environment for QAD AUX.
 
+## Demo
+
+[![Screenshot of the QAD AUX frontend testing tool in progress](https://img.youtube.com/vi/_s2ovk1pIYA/0.jpg)](https://www.youtube.com/watch?v=_s2ovk1pIYA)
+
 ## Setup for Development (Linux)
 
 1. Clone this repo
